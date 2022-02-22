@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name NJM78M05FA)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/HR-SC04-FullLogic/NJM78M05FA.pretty")(options "")(descr ""))
+  (lib (name XH_connector)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/coil/XH_connector.pretty")(options "")(descr ""))
+  (lib (name sw-skhhby)(type KiCad)(uri "C:/Users/hplon/OneDrive/デスクトップ/New folder/kicad/coil/sw-skhhby.pretty")(options "")(descr ""))
+)
