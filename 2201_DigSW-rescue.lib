@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# DSW-1426A_S25N7SegmentsDisplay-cache
+#
+DEF DSW-1426A_S25N7SegmentsDisplay-cache U 0 40 Y Y 1 F N
+F0 "U" 275 125 50 H V C CNN
+F1 "DSW-1426A_S25N7SegmentsDisplay-cache" 300 -425 50 H V C CNN
+F2 "" 0 150 50 H I C CNN
+F3 "" 0 150 50 H I C CNN
+DRAW
+S 100 75 450 -375 0 1 0 N
+X SW1 1 0 -225 100 R 50 50 1 1 P
+X SW2 2 0 -150 100 R 50 50 1 1 P
+X SW4 4 0 -75 100 R 50 50 1 1 P
+X SW8 8 0 0 100 R 50 50 1 1 P
+X COM C 0 -300 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Diode_diode-1426A_S25N7SegmentsDisplay-cache
+#
+DEF Diode_diode-1426A_S25N7SegmentsDisplay-cache U 0 40 N N 1 F N
+F0 "U" 130 120 50 H V C CNN
+F1 "Diode_diode-1426A_S25N7SegmentsDisplay-cache" 130 120 50 H V C CNN
+F2 "" 130 120 50 H I C CNN
+F3 "" 130 120 50 H I C CNN
+DRAW
+P 2 1 1 0 100 0 200 0 N
+P 2 1 1 10 200 -50 200 50 N
+P 4 1 1 10 100 -50 100 50 200 0 100 -50 F
+X ~ 1 0 0 100 R 50 50 1 1 P
+X ~ 2 300 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
